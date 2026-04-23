@@ -1,0 +1,40 @@
+# Backend
+backend/db.sqlite3
+backend/.env
+backend/.venv
+backend/venv
+backend/__pycache__/
+backend/*.py[cod]
+backend/*$py.class
+backend/.env.local
+backend/staticfiles/
+backend/media/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env.local
+frontend/.env.*.local
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.log
+db.sqlite3
+
+# Environment
+.env
+media/
+staticfiles/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+Thumbs.db
+.DS_Store
